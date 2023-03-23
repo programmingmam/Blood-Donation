@@ -328,3 +328,41 @@ background-color: #ED0404;
 
 
 /* accordion-end ---------------------------------------*/
+
+
+/* fotter--------------------------------------------- */
+.fotter{
+    margin-top: 80px;
+    padding: 0 0 5px 0;
+}
+.line-fotter{
+    border-top: 2px dotted red;
+    padding-bottom: 3px;
+    margin: 10px 0;
+}
+.fotter-pera{
+    text-align: justify;
+}
+.fotter .col-md-3 a {
+    text-decoration: none;
+    color: #ED0404;
+    
+}
+.fotter .col-md-3 li {
+  list-style: none;
+  margin-top: 30px;
+
+}
+.fotter .col-md-3 h5 {
+ font-size: 26px;
+ color: #000;
+ font-weight: 600;
+
+}
+
+.develpoer-img img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+/* fotter---------------------------------------------end */
